@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+}
+
+table {
+    width: 100%;
+    height: 98vh;
+}
+
+td {
+    height: 2px;
+    width: 2%;
+}
+
+.topo {
+    background-color: rgb(189, 132, 241);
+}
+
+.qmsomos {
+    text-align: center;
+    background-color: rgb(189, 132, 241);
+}
+
+.contato {
+    text-align: center;
+    background-color: rgb(189, 132, 241);
+}
+
+.pecas {
+    text-align: center;
+    background-color: rgb(189, 132, 241);
+}
+
+.rodape {
+    background-color: rgb(189, 132, 241);
+}
+
+.fundo {
+    background-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.valor {
+    border-radius: 15px;
+    text-align: center;
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+.texto {
+    border-radius: 15px;
+    background-color: rgb(189, 132, 241);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(15, 15, 15);
+}
+
+.placadvi {
+    width: 55vh;
+    display: block;
+    text-align: center;
+}
+
+.inicio {
+    border-radius: 15px;
+    text-align: center;
+    background-color: blueviolet;
+    height: 40vh;
+}
+button {
+    border-radius: 15px;
+    text-align: center;
+    background-color: blueviolet;
+    height: 3em;
+    border: 0;
+    color: white;
+    padding: .5em 1em;
+    width: 100px;
+    height: fit-content;
+}
+button:hover {
+    cursor: pointer;
+}
+
+.cnp{  border-radius: 15px;
+    text-align: center;
+    background-color: blueviolet;
+    height: 8em;
+    border: 0;
+    color: white;
+    padding: .5em 1em;
+    width: 100px;
+    height: fit-content;}
+
+.e-mail {
+        border-radius: 15px;
+        background-color: rgb(189, 132, 241);
+}
+
+.fundo2 {
+   
+    background-color: rgb(189, 132, 241);
+}
